@@ -6,7 +6,6 @@
   <parent>
     <groupId>com.example.maven-project</groupId>
     <artifactId>maven-project</artifactId>
-    
     <relativePath>../pom.xml</relativePath>
   </parent>
 
